@@ -1,2 +1,2 @@
 # TypeLists
-Template Meta-Programming project C++
+Template metaprogramming C++
